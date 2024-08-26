@@ -1,5 +1,5 @@
-# Age-calculator
-<p>The Age Calculator is a web-based application designed to calculate a person's age based on their date of birth. It provides a simple and intuitive interface, making it easy for users of all ages to quickly determine their exact age in years, months, and days. This project is built using HTML, CSS, and JavaScript.</p>
+# Age-Tracker
+<p>The Age Tracker is a web-based application designed to calculate a person's age based on their date of birth. It provides a simple and intuitive interface, making it easy for users of all ages to quickly determine their exact age in years, months, and days. This project is built using HTML, CSS, and JavaScript.</p>
 
 <h2>Features:</h2>
 <h4>User-Friendly Interface:</h4> Simple and clean design for ease of use.
